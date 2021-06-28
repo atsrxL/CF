@@ -3,8 +3,7 @@
 
 # 源 IP 段匹配
 
-SRC-IP-CIDR,192.168.123.136/24
-
+SRC-IP-CIDR,192.168.123.136/24,no-resolve
 
 # IP 段匹配
 # IP-CIDR,
