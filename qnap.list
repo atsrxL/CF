@@ -1,6 +1,8 @@
 # 内容：直连
 # 数量：
 DOMAIN-KEYWORD,qnap
+DOMAIN-KEYWORD,plex
+
 
 #USER-AGENT,*youtube*
 #DOMAIN,yt3.ggpht.com
