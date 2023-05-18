@@ -1,5 +1,5 @@
 IP-CIDR,192.168.0.0/16
-IP-CIDR,10.20.30.0/24
+IP-CIDR,10.20.30.0/24,no-resolve
 
 
 #IP-CIDR,10.20.30.2/32,no-resolve
